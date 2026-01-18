@@ -71,7 +71,8 @@
 
 ### 🎯 Fun Fact  
 > _"There are two types of companies: those who have been hacked and those who don’t know they have been hacked yet!"_ 🚀  
-
+### 💀 
+>_"If you think you are secure?? Think again! 💀
 ---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lucky-om&limit=5&theme=dark&combine_all_yearly_contributions=true)
