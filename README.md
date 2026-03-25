@@ -11,8 +11,7 @@
 🔹 **Ethical Hacker | Penetration Tester | Cybersecurity Analyst**  
 🔹 Expert in **Web Security, Network Defense, and Red Teaming**  
 🔹 Passionate about **Threat Intelligence, SIEM, and Digital Forensics**  
-🔹 Strong skills in **OSINT, Incident Response, and Secure Coding**  
-🔹 **Cybersecurity Trainer & Speaker** 🎤  
+🔹 Strong skills in **OSINT, Incident Response, and Secure Coding**   
 
 ---
 
@@ -79,3 +78,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lucky-om&icon=0&color=0)](https://visitcount.itsvg.in) 
+---
+My Website - luckyverse.tech
