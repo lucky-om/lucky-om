@@ -56,7 +56,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lucky-om&theme=outrun&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lucky-om&theme=outrun&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucky-om&theme=outrun&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-om&theme=outrun&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -69,7 +69,7 @@
 </div>
 
 ### 🎯 Fun Fact  
-> _"There are two types of companies: those who have been hacked and those who don’t know they have been hacked yet!"_ 🚀  
+> _"There are two types of companies: those who have been hacked and those who don't know they have been hacked yet!"_ 🚀  
 ### 💀 
 >_"If you think you are secure?? Think again! 💀
 ---
