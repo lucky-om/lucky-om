@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=220&section=header&text=Luckyverse&fontSize=50&fontColor=00ff99&animation=fadeIn" />
 </p>
 
-<h1 align="center">💀 Luckyverse 🔐</h1>
+<h1 align="center">💀 Luckyyy 🔐</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2200&pause=700&color=00FF99&center=true&vCenter=true&width=700&lines=Ethical+Hacker;Security+Researcher;Bug+Bounty+Learner" />
@@ -15,14 +15,14 @@
 
 - Ethical Hacker focused on **web security**  
 - Learning through **labs + real-world testing**  
-- Building skills in **offensive & defensive security**  
+- Building skills in **offensive security**  
 
 ---
 
 ## 🧨 Finding  
 
 - **IDOR → VNSGU Website**  
-  Discovered unauthorized data access vulnerability *(not yet reported)*  
+  Discovered unauthorized data access vulnerability  
 
 ---
 
@@ -51,7 +51,7 @@ https://luckyverse.tech/
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucky-om&theme=tokyonight&show_icons=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucky-om&theme=tokyonight&show_icons=true" />
   <br>
   <img src="https://streak-stats.demolab.com?user=lucky-om&theme=tokyonight"/>
 </p>
