@@ -86,7 +86,7 @@ goal: Break systems ethically, build clean code, ship real tools
 ## ⚔️ Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,linux,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,c,cpp,php,bash,mysql,mongodb,linux,docker,git,github,vscode&perline=11&theme=dark"/>
 </p>
 
 **Web:** `XSS` `SQL Injection` `IDOR`
