@@ -1,30 +1,30 @@
 <!-- 🔥 TOP WAVE HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:ff0033,100:000000&height=230&section=header&text=Luckyverse&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:ff0033,100:000000&height=230&section=header&text=Luckyverse&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Luckyverse Header" />
 </p>
 
 <h1 align="center">💀 Luckyyy 🔐</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2200&pause=700&color=FF0033&center=true&vCenter=true&width=750&lines=Ethical+Hacker;Security+Researcher;Bug+Bounty+Learner;Cybersecurity+Student;Full-Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2200&pause=700&color=FF0033&center=true&vCenter=true&width=750&lines=Ethical+Hacker;Security+Researcher;Bug+Bounty+Learner;Cybersecurity+Student;Full-Stack+Developer" alt="Typing Animation" />
 </p>
 
 <p align="center">
   <a href="https://luckyverse.tech/">
-    <img src="https://img.shields.io/badge/Website-luckyverse.tech-ff0033?style=for-the-badge&labelColor=000000&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-luckyverse.tech-ff0033?style=for-the-badge&labelColor=000000&logo=firefox&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/lucky-om">
-    <img src="https://img.shields.io/badge/GitHub-lucky--om-ff0033?style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-lucky--om-ff0033?style=for-the-badge&labelColor=000000&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/universe.lucky/">
-    <img src="https://img.shields.io/badge/Instagram-universe.lucky-ff0033?style=for-the-badge&labelColor=000000&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-universe.lucky-ff0033?style=for-the-badge&labelColor=000000&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/lucky-om?style=for-the-badge&color=ff0033&labelColor=000000&logo=github&label=Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=lucky-om&label=Profile+Views&color=ff0033&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/lucky-om?style=for-the-badge&color=ff0033&labelColor=000000&logo=github&label=Followers" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=lucky-om&label=Profile+Views&color=ff0033&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -45,12 +45,12 @@ goal: Break systems ethically, build clean code, ship real tools
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=root%40luckyverse%3A~%23+nmap+-sV+target;root%40luckyverse%3A~%23+sqlmap+--dbs;root%40luckyverse%3A~%23+whoami;Lucky+aka+Om" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=root%40luckyverse%3A~%23+nmap+-sV+target;root%40luckyverse%3A~%23+sqlmap+--dbs;root%40luckyverse%3A~%23+whoami;Lucky+aka+Om" alt="Terminal Animation" />
 </p>
 
-* 🔭 Currently building **WebFox** into a full recon-to-report pipeline (subdomain enum → port/service scan → tech fingerprint → CVE match → auto-report)
+* 🔭 Currently building **WebFox** into a full recon-to-report pipeline
 * 🧪 Running a purple-team lab with **Wazuh SIEM** against a vulnerable target app
-* 🎯 Career track: **Offensive Security / Pentester**, alongside bug bounty & freelance web dev
+* 🎯 Career track: **Offensive Security / Pentester**, alongside bug bounty & freelance web development
 * 🎮 Beyond the terminal: gaming, space/sci-fi, and travel
 
 ---
@@ -69,9 +69,9 @@ goal: Break systems ethically, build clean code, ship real tools
 ## 🥇 Achievements
 
 <p align="center">
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" alt="Quickdraw"/>
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" alt="Pull Shark"/>
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="90" alt="Pair Extraordinaire"/>
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" alt="Quickdraw" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" alt="Pull Shark" />
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="90" alt="Pair Extraordinaire" />
 </p>
 
 ---
@@ -98,7 +98,10 @@ goal: Break systems ethically, build clean code, ship real tools
 ## ⚔️ Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,c,cpp,php,bash,mysql,mongodb,linux,docker,git,github,vscode,cloudflare,nginx,apache,ubuntu&perline=13&theme=dark"/>
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,c,cpp,php,bash,mysql,mongodb,linux,docker,git,github,vscode,cloudflare,nginx,apache,ubuntu&perline=13&theme=dark"
+    alt="Technology Stack"
+  />
 </p>
 
 **Web:** `XSS` `SQL Injection` `IDOR`
@@ -111,8 +114,8 @@ goal: Break systems ethically, build clean code, ship real tools
 
 ## 📚 Currently Learning
 
-* 🎯 Advanced Red Teaming & Purple Team operations
-* 🛡️ SIEM workflows with Wazuh (detection + log correlation)
+* 🎯 Advanced Red Teaming & Purple Team Operations
+* 🛡️ SIEM workflows with Wazuh — detection + log correlation
 * 🐛 Bug bounty methodology & vulnerability report writing
 * 🤖 AI/ML fundamentals
 
@@ -121,28 +124,46 @@ goal: Break systems ethically, build clean code, ship real tools
 ## 🛠️ Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucky-om&repo=WebFox&theme=dark&hide_border=true&title_color=ff0033&icon_color=ff0033&text_color=ffffff&bg_color=0d0d0d" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucky-om&repo=NetPhantom&theme=dark&hide_border=true&title_color=ff0033&icon_color=ff0033&text_color=ffffff&bg_color=0d0d0d" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucky-om&repo=WebFox&theme=dark&hide_border=true&title_color=ff0033&icon_color=ff0033&text_color=ffffff&bg_color=0d0d0d"
+    alt="WebFox"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucky-om&repo=NetPhantom&theme=dark&hide_border=true&title_color=ff0033&icon_color=ff0033&text_color=ffffff&bg_color=0d0d0d"
+    alt="NetPhantom"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucky-om&repo=PhishGuard&theme=dark&hide_border=true&title_color=ff0033&icon_color=ff0033&text_color=ffffff&bg_color=0d0d0d" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucky-om&repo=Spherewalk&theme=dark&hide_border=true&title_color=ff0033&icon_color=ff0033&text_color=ffffff&bg_color=0d0d0d" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucky-om&repo=PhishGuard&theme=dark&hide_border=true&title_color=ff0033&icon_color=ff0033&text_color=ffffff&bg_color=0d0d0d"
+    alt="PhishGuard"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucky-om&repo=Spherewalk&theme=dark&hide_border=true&title_color=ff0033&icon_color=ff0033&text_color=ffffff&bg_color=0d0d0d"
+    alt="Spherewalk"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucky-om&repo=SoundLux&theme=dark&hide_border=true&title_color=ff0033&icon_color=ff0033&text_color=ffffff&bg_color=0d0d0d" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucky-om&repo=NUM-OSINT&theme=dark&hide_border=true&title_color=ff0033&icon_color=ff0033&text_color=ffffff&bg_color=0d0d0d" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucky-om&repo=SoundLux&theme=dark&hide_border=true&title_color=ff0033&icon_color=ff0033&text_color=ffffff&bg_color=0d0d0d"
+    alt="SoundLux"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucky-om&repo=NUM-OSINT&theme=dark&hide_border=true&title_color=ff0033&icon_color=ff0033&text_color=ffffff&bg_color=0d0d0d"
+    alt="NUM-OSINT"
+  />
 </p>
 
-| Project           | What it does                                                                                          |
-| ----------------- | ----------------------------------------------------------------------------------------------------- |
-| 🦊 **WebFox**     | Python recon tool — subdomain enum, port scanning, URL extraction from JS/robots.txt via CLI          |
-| 👻 **NetPhantom** | Real-time packet sniffer & analyzer with deep packet inspection through a clean GUI                   |
-| 🎣 **PhishGuard** | Threat-intel engine (React 19 + Python) using heuristics to catch suspicious URLs & homograph attacks |
-| 🌐 **Spherewalk** | Immersive virtual walkthrough platform — built for SCET Surat's SCETATHON 2026                        |
-| 🔊 **SoundLux**   | Premium audio e-commerce UI with dark-mode glassmorphism — built for INFERNO'26: HACKOVERFLOW         |
-| 📞 **NUM-OSINT**  | Web app + CLI gathering public OSINT on mobile numbers — carrier, geo hints, linked profiles          |
+| Project           | Description                                                                                                  |
+| ----------------- | ------------------------------------------------------------------------------------------------------------ |
+| 🦊 **WebFox**     | Python reconnaissance tool for subdomain enumeration, port scanning, service discovery, and URL extraction   |
+| 👻 **NetPhantom** | Real-time network packet sniffer and analyzer with deep packet inspection                                    |
+| 🎣 **PhishGuard** | Threat-intelligence engine using React and Python heuristics to detect suspicious URLs and homograph attacks |
+| 🌐 **Spherewalk** | Immersive virtual walkthrough platform built for SCETATHON 2026                                              |
+| 🔊 **SoundLux**   | Premium audio e-commerce interface with dark-mode glassmorphism                                              |
+| 📞 **NUM-OSINT**  | Web application and CLI for gathering publicly available OSINT on mobile numbers                             |
 
 > All original tools are proprietary — **All Rights Reserved by Lucky**.
 
@@ -151,11 +172,11 @@ goal: Break systems ethically, build clean code, ship real tools
 ## 🧪 Practice Grounds
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-D22128?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CTF-000000?style=for-the-badge&logo=ctf&logoColor=red"/>
+  <img src="https://img.shields.io/badge/TryHackMe-D22128?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" />
+  <img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" alt="PortSwigger" />
+  <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" />
+  <img src="https://img.shields.io/badge/CTF-000000?style=for-the-badge&logo=ctf&logoColor=red" alt="CTF" />
 </p>
 
 ---
@@ -209,15 +230,15 @@ goal: Break systems ethically, build clean code, ship real tools
 
 <p align="center">
   <a href="https://luckyverse.tech/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-ff0033?style=for-the-badge&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-ff0033?style=for-the-badge&labelColor=000000" alt="Portfolio" />
   </a>
 
   <a href="https://github.com/lucky-om">
-    <img src="https://img.shields.io/badge/💻_GitHub-ff0033?style=for-the-badge&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/💻_GitHub-ff0033?style=for-the-badge&labelColor=000000" alt="GitHub" />
   </a>
 
   <a href="https://www.instagram.com/universe.lucky/">
-    <img src="https://img.shields.io/badge/📸_Instagram-ff0033?style=for-the-badge&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/📸_Instagram-ff0033?style=for-the-badge&labelColor=000000" alt="Instagram" />
   </a>
 </p>
 
@@ -226,11 +247,17 @@ goal: Break systems ethically, build clean code, ship real tools
 <!-- 🔥 MATRIX STYLE DIVIDER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF0033&center=true&vCenter=true&width=500&lines=01010101+01010101+01010101;SYSTEM+MONITORING...;ACCESS+GRANTED" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF0033&center=true&vCenter=true&width=500&lines=01010101+01010101+01010101;SYSTEM+MONITORING...;ACCESS+GRANTED"
+    alt="System Animation"
+  />
 </p>
 
 <!-- 🔥 BOTTOM WAVE -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0033,100:1a0000&height=150&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0033,100:1a0000&height=150&section=footer"
+    alt="Luckyverse Footer"
+  />
 </p>
